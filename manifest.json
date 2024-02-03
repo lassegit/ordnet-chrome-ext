@@ -1,0 +1,14 @@
+{
+  "description": "Search the danish dictionary.",
+  "icons": {
+    "16": "promo_icon.png",
+    "48": "promo_icon.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2,
+  "name": "Search Ordnet.dk",
+  "permissions": ["contextMenus", "tabs", "storage"],
+  "version": "1.0"
+}
